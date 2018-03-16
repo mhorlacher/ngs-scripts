@@ -1,3 +1,5 @@
+#Counts variant types given an (annotated) .vcf-file
+
 import numpy as np
 import sys
 
