@@ -1,4 +1,4 @@
-#Filters missense variants from an (annotated) .vcf-file given a Grantham score treshold
+#Filter missense variants from an (annotated) .vcf-file given a Grantham score treshold
 
 from __future__ import print_function
 import numpy as np
