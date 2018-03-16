@@ -1,2 +1,2 @@
 # ngs-scripts
-Various small Scripts for NGS Data Analysis
+A collection of various small Scripts, mainly for NGS Data Analysis
