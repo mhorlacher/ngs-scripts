@@ -1,3 +1,5 @@
+#Mark variants in an (annotated) .vcf-file given a minor-allele-frequency (MAF) threshold
+
 from __future__ import print_function
 import numpy as np
 import sys
