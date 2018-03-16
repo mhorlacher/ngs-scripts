@@ -1,3 +1,5 @@
+#Removes duplicate ALT alleles for variants of .vcf-file, e.g. REF: CTGTG ALT: C,C
+
 from __future__ import print_function
 import numpy as np
 import sys
